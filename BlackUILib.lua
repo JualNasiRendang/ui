@@ -707,7 +707,7 @@ do
             showToast("Discord Link Copied")
         end)
     end
-    addFooterLink(Icons.Discord, "Discord", "discord.gg/vrzg9YaNPj", "https://discord.gg/vrzg9YaNPj")
+    addFooterLink(Icons.Discord, "Discord", "discord.gg/nasirendanglua", "https://discord.gg/nasirendanglua")
 
     -- Key detection from nr_loader_key.txt
     local keyTitleText = "nrlscript"
