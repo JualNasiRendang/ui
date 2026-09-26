@@ -3,7 +3,7 @@
     BLACK UI DESIGN SYSTEM & LIBRARY (STANDALONE MODULE)
     ============================================================================
     Architecture: Decoupled UI Module
-    Author: Radika / NRL Script
+    Author: NRL Script
     Export: returns UI table with all window, styling, and widget builders
     
     COMPONENTS & METHODS:
