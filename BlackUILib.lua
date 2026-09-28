@@ -213,7 +213,7 @@ do
         features = {
             "+ Added Anti-afk (Auto)",
             "+ Added Live Web Monitor",
-            "+ Added The Rift Event",
+            "+ Fixed Auto Steal",
             "+ Added Discord Webhook",
         },
         buttonText = "Enter Script",
